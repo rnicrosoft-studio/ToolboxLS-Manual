@@ -1,15 +1,19 @@
 # ToolboxLS-Manual
 [ToolboxLS (the Level Set Methods Toolbox by Ian Mitchell)](https://www.cs.ubc.ca/~mitchell/ToolboxLS/) manual, remastered in `Typst`.
 
-> [!NOTE] Why remastering?
+> [!NOTE]
+> Why remastering?
 > Because the original manual PDF uses unrecognizable fonts, and the text cannot be copied, annotated or edited properly.
 
-> [!CAUTION] Caution for myself: 
+> [!CAUTION]
+> To myself: 
 > `Typst` is still experimental and anti-humanity, DO NOT USE in my next project.
 
 ## Usage
 Please see [Releases](./releases) for remastered compiled documents.
-> [!IMPORTANT] The full version will not be public before its copyright clarification.
+
+> [!IMPORTANT]
+> The full version will not be public before its copyright clarification.
 
 ## Progress
 - [x] Original edition `en-US`
